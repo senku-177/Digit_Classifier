@@ -1,0 +1,9 @@
+Hi There This is a digit classifier ML model which takes in put an 28x28 pixel image
+
+It predicts the number written in the image
+The model is with an accuracy of 96%>
+
+
+Install the libraies mentioned in header using the command:
+  pip install library_name
+ 
